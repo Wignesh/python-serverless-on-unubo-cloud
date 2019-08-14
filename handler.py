@@ -4,4 +4,4 @@ def handle(req):
         req (str): request body
     """
 
-    return req
+    return "Python serverless on Unubo Cloud."
